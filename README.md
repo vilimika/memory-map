@@ -6,7 +6,7 @@ run program: ./program_name arguments
 
 program will print a memory map of argv with the values that you passed into the program. 
 
-Example output: 
+Example output: (does not transfer well to github from command line output :( haha)
 
       +------+------+------+------+ 00000000
       +------+------+------+------+
